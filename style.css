@@ -1,0 +1,40 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+blockquote {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav_link {
+    color: brown;
+    text-decoration: none;
+    background-color: blanchedalmond;
+}
+
+.nav_link_active {
+    text-decoration: underline;
+}
+
+input {
+    background-color: antiquewhite;
+}
+
+.registration {
+    text-align: center;
+    background-color: beige;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 4px double black;
+
+}
